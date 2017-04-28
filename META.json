@@ -51,6 +51,17 @@
       }
    },
    "release_status" : "stable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/PACKED-vzw/Catmandu-Store-REST/issues"
+      },
+      "homepage" : "https://github.com/PACKED-vzw/Catmandu-Store-REST",
+      "repository" : {
+         "type" : "git",
+         "url" : "https://github.com/PACKED-vzw/Catmandu-Store-REST.git",
+         "web" : "https://github.com/PACKED-vzw/Catmandu-Store-REST"
+      }
+   },
    "version" : "0.01",
    "x_serialization_backend" : "Cpanel::JSON::XS version 3.0231"
 }
